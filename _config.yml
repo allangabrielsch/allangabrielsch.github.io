@@ -28,8 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Munich, Germany"
-  employer         : "Technical University of Munich"
-  employer         : "Max Planck Instute for Astrophysics"
+  employer         : "Technical University of Munich \n Max Planck Institute for Astrophysics"
   uri              : # URL
   email            : "allansch@mpa-garching.mpg.de" 
 
