@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Allan G. Schweinfurth"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Astrophysics Research Assistant"
   location         : "Munich, Germany"
-  employer         : "Technical University of Munich \n Max Planck Institute for Astrophysics"
+  employer         : "Max Planck Institute for Astrophysics"
   uri              : # URL
   email            : "allansch@mpa-garching.mpg.de" 
 
