@@ -1,7 +1,7 @@
 ---
 title: "MOVE-III and DEDRA: In Situ Sub-millimetric Space Debris and Micrometeoroid Detection and Characterisation"
 collection: publications
-category: Conference Papers
+category: conferences
 permalink: /publication/moveiiineosst
 excerpt: '*(Main Author: Allan G. Schweinfurth)* Concept and design of a 6U CubeSat mission using advanced impact-ionisation sensors to gather in-situ data on sub-millimetre space debris and meteoroids in Low Earth Orbit, enabling improved modelling of their flux, mass, speed, and trajectories.'
 date: 2023-01-26
