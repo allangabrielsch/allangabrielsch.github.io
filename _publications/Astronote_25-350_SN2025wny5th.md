@@ -2,7 +2,7 @@
 title: "AstroNote 2025-350 - Detection of a possible fifth image of SN 2025wny (SN Winny)"
 collection: publications
 category: astronotes
-permalink: /publication/SN2025WNY_5th
+permalink: /publication/Astronote_25-350_SN2025wny5th
 excerpt: 'A fifth, faint (r′≈24) point source near G2 in 2025 CFHT/MegaCam imaging of the strongly lensed SN 2025wny (SN Winny). Likely an additional, demagnified SN image arising from the system’s two-galaxy lens configuration.'
 date: 2025-11-28
 venue: 'Transient Name Server'

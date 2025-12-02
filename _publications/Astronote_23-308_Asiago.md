@@ -2,7 +2,7 @@
 title: "AstroNote 2023-308 - Asiago spectroscopic classification of optical transient"
 collection: publications
 category: astronotes
-permalink: /publication/asiago23-308
+permalink: /publication/Astronote_23-308_Asiago
 excerpt: 'The Asiago Transient Classification Program (Tomasella et al. 2014, AN, 335, 841) reports the spectroscopic observation of AT2023wpm (ZTF23abovaur) in LEDA 1656929'
 date: 2023-11-15
 venue: 'Transient Name Server'

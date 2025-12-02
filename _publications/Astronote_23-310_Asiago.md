@@ -2,7 +2,7 @@
 title: "AstroNote 2023-310 - Asiago spectroscopic classification of six optical transients"
 collection: publications
 category: astronotes
-permalink: /publication/asiago23-310
+permalink: /publication/Astronote_23-310_Asiago
 excerpt: 'The Asiago Transient Classification Program (Tomasella et al. 2014, AN, 335, 841) reports the spectroscopic observation of AT2023xqn, AT2023xoo, AT2023wtm, AT2023xqw, AT2023xlm, AT2023vyn.'
 date: 2023-11-17
 venue: 'Transient Name Server'
